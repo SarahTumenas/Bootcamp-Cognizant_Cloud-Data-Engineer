@@ -11,7 +11,7 @@ Neste repositório será compartilhado, estudos,exercícios, desafios e projetos
             - operadores aritméticos
       - interação com o usuário 
     - aula3
-      - apronfundamento dassintaxes básicas
+      - apronfundamento das sintaxes básicas
         - Condicionais
               - IF
               - ELSE
