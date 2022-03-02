@@ -1,6 +1,6 @@
 # Bootcamp Coognizant Cloud Data Engineer #2 - Python
 
-Neste repositório será compartilhado, estudos,exercícios, desafios e projetos de Python,com os principais conceitos e aplicações da linguagem
+Neste repositório será compartilhado estudos,exercícios, desafios e projetos de Python,com os principais conceitos e aplicações da linguagem
 
 - Introdução : 
     - Características da linguagem Python: 
